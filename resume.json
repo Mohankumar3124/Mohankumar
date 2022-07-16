@@ -8,8 +8,8 @@
         "website": "",
         "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering. I have enthusiasm in competitive programming.",
         "location": {
-            "address": "Nathdwara",
-            "postalCode": "313301",
+            "address": "Madhubani bihar",
+            "postalCode": "847211",
             "city": "Madhubani",
             "countryCode": " India",
             "region": "Bihar"
@@ -52,7 +52,7 @@
         {
             "institution": "Indian Institute of Information Technology,Kota",
             "area": "Engineering",
-            "studyType": "Bachelor ",
+            "studyType": "B.tech ",
             "startDate": "",
             "endDate": "",
             "gpa": "",
@@ -70,9 +70,9 @@
     ],
     "publications": [
         {
-            "title": "IIIT Kota Website",
-            "details": "Build IIIT Kota Website Using MERN.",
-            "link": "https://iiitkota.ac.in/"
+            "title""",
+            "details" "",
+            "link": ""
         },
         {
             "title": "",
